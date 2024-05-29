@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: hidden;
+}
+
+a:link,
+a {
+  text-decoration: none;
+  color: white;
+}
+div {
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
+  background-color: black;
+  font-size: 1.2rem;
+  color: white;
+}
